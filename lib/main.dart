@@ -8,7 +8,7 @@ void main() {
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
-  Widget build(BuildContext cgitontext) {
+  Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Stage2 Task',
       home: Stage2TAsk(),
