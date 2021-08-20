@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/HWNMNwXCsuQ4DQ0XPu/giphy.gif" width="200" height="400" />
+<img src="https://media.giphy.com/media/2AKXCfKDAkbeOA08U0/giphy-downsized-large.gif" width="200" height="400" />
 
 
 # stage3task
