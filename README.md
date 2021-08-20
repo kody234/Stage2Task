@@ -1,4 +1,4 @@
-<img src="https://imgflip.com/gif/5k7ymg" width="200" height="400" />
+<img src="https://media.giphy.com/media/HWNMNwXCsuQ4DQ0XPu/giphy.gif" width="200" height="400" />
 
 
 # stage3task
